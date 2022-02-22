@@ -1,0 +1,15 @@
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.exe
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.csprojAssemblyReference.cache
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.AssemblyInfoInputs.cache
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.AssemblyInfo.cs
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.deps.json
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.runtimeconfig.json
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.runtimeconfig.dev.json
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.dll
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\RecibosJson.pdb
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.csproj.CoreCompileInputs.cache
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.csproj.CopyComplete
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.dll
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.pdb
+C:\Users\Rusbel\source\repos\RecibosJson\RecibosJson\obj\Debug\netcoreapp3.1\RecibosJson.genruntimeconfig.cache
